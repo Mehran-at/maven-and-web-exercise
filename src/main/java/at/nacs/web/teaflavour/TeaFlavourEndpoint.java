@@ -1,4 +1,4 @@
-package at.nacs.web.teaFlavour;
+package at.nacs.web.teaflavour;
 
 
 import org.springframework.web.bind.annotation.*;
